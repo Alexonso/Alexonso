@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Création web et app Ios</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <h1>Création de site web et app Ios anniversaire  mariage etc...</h1>
+    <h2>Bonjour j'ai fait ce site web qui marche bien, pas mal de boulot j'avoue je suis débordé.</h2>
+  <p>Pour l'instant je fait que des sites static et sans photo beaucoup moins cher, cela s'avère bon en plus pour votre porte monnaie.</p>
+  <span> Pour un anniversaire, mariage, pas encore d'application mais ça arrive,mais
+    suite à un problème technique en version bêta, qui crée un problème creation         technique indépendant de ma part. </span>
+    <h3>  Je vous laisse un de mes email pour me faire part de vos souhait de faire un   site je débute et mes tarifs compétitif
+    </h3>
+  <p>
+    Pour tout contact : looping58@gmail.com
+  </P>
+    
+  <p>20€ les 3 jours c'est raisonnable pour le temps passé et les frais de mise en ligne<p>
+<p> ALORS CONTACT ME".</p>
+  <span>Si le coeur vous en dit fait un don pour me faire avancer Grand merci envoyer moi un mail que je vous donne l'adresse paypal</span>
+©AG2023
+
+
+
+
+
+    
+  <script src="script.js"></script>
+
+  <!--
+  This script places a badge on your repl's full-browser view back to your repl's cover
+  page. Try various colors for the theme: dark, light, red, orange, yellow, lime, green,
+  teal, blue, blurple, magenta, pink!
+  -->
+  
+</body>
+
+</html>
